@@ -1,0 +1,17 @@
+.app{
+    display: flex;
+    height: 100vh;
+}
+.map{
+    width: 60vw;
+
+}
+#map{
+    width: 100%;
+    height:100%;
+
+}
+.user-list, .restaurant{
+    width: 20vw;
+
+}
